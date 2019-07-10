@@ -3,7 +3,7 @@ A server for tic tac toe.
 
 ## Usage
 
-There are only two API calls.  The first, `POST /games` is used to create a game and the second `POST /games/<game-id>` is used 
+There are only two API calls.  The first, `POST /games` is used to create a game and the second, `POST /games/<game-id>`, is used 
 to make a move.  
 
 ## Creating a game
